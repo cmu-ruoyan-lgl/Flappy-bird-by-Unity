@@ -1,0 +1,4 @@
+repository "Flarpy Blorb@ruo_yan@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
